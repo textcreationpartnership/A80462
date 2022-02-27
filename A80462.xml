@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter from the Commissioners with the King; concerning the manner of the souldiers fetching his Majestie to the army. And a copie of a paper delivered by the said souldiers, declaring their reasons why they did it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80462</idno>
+            <idno type="STC">Wing C6123</idno>
+            <idno type="STC">Thomason E391_10</idno>
+            <idno type="STC">ESTC R201554</idno>
+            <idno type="EEBO-CITATION">99862053</idno>
+            <idno type="PROQUEST">99862053</idno>
+            <idno type="VID">160265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter from the Commissioners with the King; concerning the manner of the souldiers fetching his Majestie to the army. And a copie of a paper delivered by the said souldiers, declaring their reasons why they did it.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Simpson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160265:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER FROM THE Commiſſioners with the King; concer<g ref="char:EOLhyphen"/>ning the manner of the Souldiers fetching his Majeſtie to the ARMY.</p>
+            <p>And a Copie of a Paper delivered by the ſaid Soul<g ref="char:EOLhyphen"/>diers, declaring their reaſons why they did it.</p>
+            <figure>
+               <figDesc>decorative element incorporating crown and Tudor rose.</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Simpſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:160265:2"/>
+            <pb facs="tcp:160265:2"/>
+            <head>MORE NEVVES FROM THE ARMY</head>
+            <div type="letter">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>YEſterday we got firſt uncertain intel<g ref="char:EOLhyphen"/>ligence of ſome parties of horſe up<g ref="char:EOLhyphen"/>on their march near <hi>Stony-ſtratford.</hi>
+               </p>
+               <pb facs="tcp:160265:3"/>
+               <p>Towards night other reports came to us, of an intention to ſurprize this place, where<g ref="char:EOLhyphen"/>upon Col. <hi>Graves</hi> doubled the guards, by ſuch as ha had moſt confidence in. At length a Scout of our own brought word of a par<g ref="char:EOLunhyphen"/>ty of horſe randezvouzing upon <hi>Harleſton</hi> Heath, not two miles off, about ten of the clock at night; and withall, wee were ſe<g ref="char:EOLhyphen"/>cretly informed, that their intentions were to ſeize Col. <hi>Graves,</hi> and to poſſeſſe them<g ref="char:EOLhyphen"/>ſelves of this Houſe.</p>
+               <p>Hereupon we began to prepare for de<g ref="char:EOLhyphen"/>fence, but forced upon advice with Colo<g ref="char:EOLhyphen"/>nell <hi>Graves,</hi> the guards were to little to be relyed upon, that we thought it requiſite, he ſhould withdraw himſelf, leſt he ſhould be taken by force from us there being no means le<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> us to ſecure our ſelves, to which neceſſity he was contented to ſubmit, and we purpoſely cauſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it to be divulged, that he was gone, hoping thereby to divert the Horſe from falling on us, But about one of the clock, we had certain knowledge of their being drawn into the Park and Mea<g ref="char:EOLhyphen"/>dowes adjoyning, and that wee were ſur<g ref="char:EOLhyphen"/>rounded
+<pb facs="tcp:160265:3"/> by them, which cauſed vs to ſend for all the Officers of our Guard, who with one conſent declared to us, that they found no diſpoſition in their ſouldiers to fight with any of the Generals army, with whom they had ſo often adventured themſelves againſt the common Enemy.</p>
+               <p>While this diſcourſe held with them, it paſſing two of the clock, about break of day we diſcovered a party of horſe drawne up before the great gates, and immediatly at the back yard, where our Horſe and Dra<g ref="char:EOLhyphen"/>goanes ſtood; their horſe with many of ours amongſt them, entred without any re<g ref="char:EOLhyphen"/>ſiſtance at all, being quietly let in, and im<g ref="char:EOLhyphen"/>braced by the ſouldiers.</p>
+               <p>We preſently ſent to ſpeak with their chief Officer: it was anſwered, there was none that commanded: But ſoon after, Mr, <hi>Joyce</hi> Cornet to the Generals Life-guard came into us, and being demanded the cauſe of their coming in this manner, he anſwered, that they came with authority from the Souldiery to Collonell <hi>Graves</hi> that hee might be tryed by a Councell of Warre,
+<pb facs="tcp:160265:4"/> for having ſcandalized the Army, whereby a Plot alſo (which was contriving to convey the King to London without directions of the Parliament) would be prevented.</p>
+               <p>VVe deſired he would put the ſame into writing, and they delivered us the incloſed accordingly wher in you will not find Colonell Graves mentioned by name, though intended.</p>
+               <p>This is the condition we are in<g ref="char:punc">▪</g> with much ſorrow to our ſelves, that we can give you no better acompt though our endeavours have not been wanting. Our humble ſuit is, that by this Bearer Captain <hi>Titus,</hi> you will pleaſe to ſend us ſpeedy directions, the want whereof hath been no ſmall diſcouragement to us hitherto, in a ſervice of this length and impor<g ref="char:EOLhyphen"/>tance.</p>
+               <closer>
+                  <salute>My Lord,</salute>
+                  <signed>
+                     <hi>Your Lordſhips humble Servant,</hi> Edw. Mountague.</signed>
+                  <dateline>
+                     <hi>Holmby</hi> 
+                     <date>Iune 3.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="report">
+               <pb facs="tcp:160265:4"/>
+               <head>A Copy of the Paper delivered by Cornet <hi>Joyce</hi> to the Commiſſioners.</head>
+               <opener>
+                  <salute>May it pleaſe the Honourable Commiſſioners of Parlia<g ref="char:EOLhyphen"/>ment,</salute>
+               </opener>
+               <p>WEE Souldiers now under his Excellencie Sir <hi>Thomas Fairfax</hi> his command, have by the generall conſent of the Souldiery, manifeſted our true love to the Parliament and Kingdome, by en<g ref="char:EOLhyphen"/>deavouring to prevent a ſecond warre, diſcovered by the deſignment of ſome men privately to take away the King, to the end, he might ſide with that intend<g ref="char:EOLhyphen"/>ed Army to be raiſed, which if effected, would be to the utter undoing of the Kingdome. VVe ſhall bee able and willing to bring our teſtimony, when called for, who were the Plotters and Contrivers therein. This being the only way and meanes to prevent all thoſe fore-mentioned dangers, that might unhappily have come upon us, and this whole Kingdome, whoſe weale we have alwayes endeavoured, with the hazard of our lives, and the bloud of many of our deare
+<pb facs="tcp:160265:5"/> friends, and fellow ſouldiers. This being the onely thing preſented to us, which puts us on our late ac<g ref="char:EOLhyphen"/>tion, for the preſervation of the Kings perſon, and furthering of the Parliaments proceedings, together with the Commiſſioners great care to effect the ſame, and to diſcharge the truſt impoſed on them.</p>
+            </div>
+            <div type="report">
+               <head>The laſt Newes f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om the Army.</head>
+               <p>WE have from the Army further intelligence, to this effect; That the Committee of Troops that ſecured his Majeſtie, brought him to Huntington, Collonel <hi>Whalley</hi> is ſent to command in chief, and to ſtay His majeſtie that he march not nearer the Armie; His majeſtie is uſed with all civi<g ref="char:EOLhyphen"/>lity, but kept with a Guard as formerly. The Army ſtiil continues at their Generall Rendevouz neare Newmarket; the ſouldiers both Horſe and foot are very unanimous, and overjoyed at the ſight of their Generall, whom they received with great joy and acclamations, whoſe preſence hath brought a great ſubjection in the ſouldiers to the Officers.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
